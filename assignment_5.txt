@@ -1,0 +1,34 @@
+1.Explain hadoop in layman's term
+
+        *Hadoop is a open source framework that allows the user to handle large volume of data efficiently 
+                           (ie) it handles both the structured and unstructured data.
+ 
+        *Hadoop is cost saving because it run on commodity hardware.
+
+
+
+2.Explain the components of Hadoop framework
+         The components of hadoop framework are:
+     
+              *HDFS : - The Hadoop Distributed File System is used to store all kinds of data.
+                      - The HDFS splits the file into smaller files which are then replicated on different servers.
+                      - HDFS is the storage sheath of hadoop.
+           
+              *MapReduce : Mapreduce allows processing of large volumes of data.Mapreduce is the programming aspect of hadoop.
+
+              *YARN : Yarn is used for scheduling and handling resource requests from distributed applications.
+
+
+3.Explain the reasons to learn Big data technologies
+         The following are the reasons to learn big data:
+ 
+              *Big data manage larger volume of data: Social network,banking deals with huge volume of both unstructured and structed data.
+                       This can be made easier with the help of big data by splitting the data into smaller units.
+
+              
+              *Speed : The speed of processing the data is high as it deals with smaller units of data on different machines.
+
+             
+              *Software Options Galore : IBM,Oracle etc have spent billions investing in data analytics and management software. 
+                      They are provided with open source solution such as Hadoop.
+                        
